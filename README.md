@@ -23,3 +23,8 @@ Command: mkdir
 Description: Creates a new directory.
 Example: mkdir project
 Example Output: Creates a new directory named project.
+## 5. touch 
+Command: touch
+Description: Create a new empty file.
+Example: touch example.txt
+Example Output: Creates a new empty file names example.txt.
