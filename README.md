@@ -28,3 +28,8 @@ Command: touch
 Description: Create a new empty file.
 Example: touch example.txt
 Example Output: Creates a new empty file names example.txt.
+## 6. cp
+Command: cp
+Description: Copies files or directories.
+Example: cp file.txt backup.txt
+Example Output: Creates a copy of file.txt names backup.txt.
