@@ -38,3 +38,8 @@ Command: mv
 Description: Moves or renames files and directories.
 Example: mv old.txt new.txt
 Example Output: Renames old.txt to new.txt
+## 8. rm
+Command: rm
+Description: Removes or deletes files
+Example: rm example.txt
+Example Output: Deletes the file named example.txt
