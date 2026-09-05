@@ -18,3 +18,8 @@ Command: cd
 Description: Changes the current working directory 
 Example: cd Documents
 Example Output: Moves the user into the Documents directory.
+## 4. mkdir
+Command: mkdir
+Description: Creates a new directory.
+Example: mkdir project
+Example Output: Creates a new directory named project.
