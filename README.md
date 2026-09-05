@@ -48,3 +48,8 @@ Command: cat
 Description: Displays the contents of a file in the terminal.
 Example: cat README.md
 Example Output: Shows the contents of README.md.
+## 10. git status
+Command: git status 
+Description: Shows the current state of Git repository.
+Example: git status
+Example Output: Shows the current brand and any changed, staged, or untracked files.
