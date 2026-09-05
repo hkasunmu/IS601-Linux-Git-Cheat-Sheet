@@ -33,3 +33,8 @@ Command: cp
 Description: Copies files or directories.
 Example: cp file.txt backup.txt
 Example Output: Creates a copy of file.txt names backup.txt.
+## 7. mv
+Command: mv
+Description: Moves or renames files and directories.
+Example: mv old.txt new.txt
+Example Output: Renames old.txt to new.txt
