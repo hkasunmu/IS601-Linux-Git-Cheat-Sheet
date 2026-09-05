@@ -8,3 +8,8 @@ Command: pwd
 Description: Displays the full path of the current working directory.
 Example:pwd
 Example Output : /c/Users/hkasu/Documents
+##2. ls
+Command:ls
+Description: List the files and directories in the current directory
+Example: ls 
+Example Output: Documents Downloads README.md 
