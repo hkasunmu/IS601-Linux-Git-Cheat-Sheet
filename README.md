@@ -43,3 +43,8 @@ Command: rm
 Description: Removes or deletes files
 Example: rm example.txt
 Example Output: Deletes the file named example.txt
+## 9. cat
+Command: cat
+Description: Displays the contents of a file in the terminal.
+Example: cat README.md
+Example Output: Shows the contents of README.md.
