@@ -13,3 +13,8 @@ Command:ls
 Description: List the files and directories in the current directory
 Example: ls 
 Example Output: Documents Downloads README.md 
+## 3. cd
+Command: cd
+Description: Changes the current working directory 
+Example: cd Documents
+Example Output: Moves the user into the Documents directory.
