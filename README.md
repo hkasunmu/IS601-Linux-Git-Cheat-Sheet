@@ -68,3 +68,8 @@ Command: git branch
 Description: Displays or manages branches in a Git repository.
 Example: git branch
 Example Output: Shows the list of branches and marks the current branch with an asterisk.
+## 14 git merge
+Command: git merge
+Description: Combines changes from another branch into the current branch.
+Example: git merge command-ls
+Example Output: Merges the command-ls branch into the current branch.
