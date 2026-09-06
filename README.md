@@ -58,3 +58,8 @@ Command: git add
 Description: Adds changes to the Git staging area.
 Example: git add README.md
 Example Output: Stages README.md so it is ready to be committed.
+## 12. git commit
+Command: git commit
+Description: Saves staged changes to the Git respository history.
+Example: git commit -m "Update README"
+Example Output: Creates a new commit with the message "Update README"
