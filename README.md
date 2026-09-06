@@ -73,3 +73,8 @@ Command: git merge
 Description: Combines changes from another branch into the current branch.
 Example: git merge command-ls
 Example Output: Merges the command-ls branch into the current branch.
+## 15. git push
+Command: git push
+Description: Uploads local commits to a remote repository such as GitHub.
+Example: git push origin main
+Example Output: Sends the main branch and its commits to GitHub.
