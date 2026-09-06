@@ -53,3 +53,8 @@ Command: git status
 Description: Shows the current state of Git repository.
 Example: git status
 Example Output: Shows the current brand and any changed, staged, or untracked files.
+## 11. git add
+Command: git add
+Description: Adds changes to the Git staging area.
+Example: git add README.md
+Example Output: Stages README.md so it is ready to be committed.
