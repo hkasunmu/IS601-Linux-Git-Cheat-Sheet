@@ -63,3 +63,8 @@ Command: git commit
 Description: Saves staged changes to the Git respository history.
 Example: git commit -m "Update README"
 Example Output: Creates a new commit with the message "Update README"
+## 13. git branch
+Command: git branch
+Description: Displays or manages branches in a Git repository.
+Example: git branch
+Example Output: Shows the list of branches and marks the current branch with an asterisk.
