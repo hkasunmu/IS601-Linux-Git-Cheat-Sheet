@@ -1,4 +1,4 @@
-# Linus and Git Command Cheat Sheet
+## Linux and Git Command Cheat Sheet
 Name: Helena Kasunmu
 Course IS601 Python
 ## About This Respository 
